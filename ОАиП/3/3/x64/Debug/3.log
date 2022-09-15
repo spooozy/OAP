@@ -1,0 +1,5 @@
+﻿  3.c
+C:\Users\Home\Desktop\c\3\3\3.c(7,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Home\Desktop\c\3\3\3.c(7,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Home\Desktop\c\3\3\3.c(7,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  3.vcxproj -> C:\Users\Home\Desktop\c\3\x64\Debug\3.exe
